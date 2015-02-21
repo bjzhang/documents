@@ -1,11 +1,18 @@
 Kindle，evernote, 工作日志
 ======================
 
+自己参与社区的小体会，分享我平时用kindle看社区邮件，做笔记,，与evernote同步。以及工作日志。
 
-分享我平时用kindle看社区邮件，做笔记,，与evernote同步。以及工作日志。
+参与社区：irc, mailing list. roadmap, patch are welcome, docoment day, testday.
+todo list, gsoc, opw（已改名）
+
+例如git pull会包含特性的修改，
+![commnunity_status__GIT_PULL__features](commnunity_status__GIT_PULL__features.jpg)
+子系统的主要贡献者
+![commnunity_status__GIT_PULL__authors_commits](commnunity_status__GIT_PULL__authors_commits.jpg)
 
 日志基本分为印象笔记负责的移动笔记和围绕markdown的工作日志。
-
+ 
 Kindle用来看社区邮件，rss，记录自己感兴趣的内容或邮件。笔记通过kindle笔记导入到印象笔记。邮件通过狗耳朵直接发到印象笔记。
 
 看社区邮件列表，看rss。
@@ -16,13 +23,18 @@ clippings.io
 
 
 Lwn.net: weekly, 内核除了内核文档，可以搜索这个。
-比如今天提到pstore，google搜索“pstore lwn”可以搜索到两篇介绍文章。TODO：截图
+比如今天提到pstore，google搜索“pstore lwn”可以搜索到三篇介绍文章。
 
-![test0025](Screenshot_2015-02-11-21-18-02.jpeg)
+工作日志举例：“vi make”.
+ 
+Kindle看信：gmane
 
+相关链接
+http://sendtoreader.com/
+kindle4rss
+dogear
+gae kindle
 
-Kindle看信：gmane。支持topic和所有邮件的订阅。
+[IFTTT is pronunced like "gift" without the "g"](https://ifttt.com/wtf)
 
 网站推荐：Infoq中文站。[订阅](newsletter@mailer.infoq.com)
-
-
