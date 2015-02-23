@@ -47,6 +47,7 @@ Outreachy前身是GNOME发起的OPW(Outdoor Program for Women), 本来是为了�
 ------------
 
 参与社区有时候会觉得社区发展很快, 如果想知道一些旧闻, 各种书, 各种博客都有很多资料. 怎么知道刚刚做的啥?
+比如说和我工作相关的子系统, 可能平时没有精力关注的很细, 可以看看git pull, 还有其他人整理的社区动态.
 
 ### GIT PULL
 
@@ -55,7 +56,35 @@ Outreachy前身是GNOME发起的OPW(Outdoor Program for Women), 本来是为了�
 子系统的主要贡献者
 ![commnunity_status__GIT_PULL__authors_commits](commnunity_status__GIT_PULL__authors_commits.jpg)
 
-### lwn, phoronix... 
+也有人会介绍, 比如phoronix上面会有人分析子系统git pull request(pr):
+例如btrfs最近对raid5/6改善的pr:
+![community_status_pr_thridparty_phoronix_btrfs_raid5_6](community_status_pr_thridparty_phoronix_btrfs_raid5_6.jpg)
+这个是Greg KH的pr:
+![community_status_pr_thridparty_phoronix](community_status_pr_thridparty_phoronix.jpg)
+
+### 社区的历史
+
+如何想了解社区动态, 天天看pr可能会让咱们这种小白感觉陷入细节. 你告诉我现在改了啥, 这挺好, 问题是我不知道原来是啥样, 知道delta也没用啊.
+TODO: 加入视频的残差.
+
+前段时间看到Neil Brown写了cgroup的历史和现状:
+![community_feature_overview_cgroups](community_feature_overview_cgroups.jpg)
+
+有时社区为了重构某些代码, 会写一些资料, 例如这个要重构调度器子系统的.
+这里也可以看到几个信息来源: lwn, linaro core dump, kernel submit...
+By  Nicolas Pitre
+[Teaching the scheduler about power management](http://lwn.net/Articles/602479/)
+[The Road to Energy-Aware Scheduling](http://www.linaro.org/blog/core-dump/road-energy-aware-scheduling/)
+By Amit Kucheria:
+[http://www.linaro.org/blog/core-dump/energy-aware-scheduling-eas-project/](Energy-Aware Scheduling (EAS) Project)
+By Jonathan Corbet
+[Power-aware scheduling meets a line in the sand](http://lwn.net/Articles/552885/)
+
+Summary of Energy-Aware Scheduling workshop, Linux Kernel Summit 2014:
+[By Mike Turquette from Linaro Core Dump](https://www.linaro.org/blog/core-dump/summary-energy-aware-scheduling-workshop-linux-kernel-summit-2014/)
+[By Jonathan Corbet from lwn](http://lwn.net/Articles/609969/)
+
+### 社区新闻: lwn, phoronix... 
 
 
 日志基本分为印象笔记负责的移动笔记和围绕markdown的工作日志。
@@ -75,6 +104,13 @@ Lwn.net: weekly, 内核除了内核文档，可以搜索这个。
 工作日志举例：“vi make”.
  
 Kindle看信：gmane
+
+
+
+结尾
+====
+
+三篇文章的最后的结尾可以考虑用haojunwei画的开源长河的图.  问junwei是否同意.
 
 相关链接
 http://sendtoreader.com/
