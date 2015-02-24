@@ -23,9 +23,10 @@ Kindle，evernote, 工作日志
 比如说这里有某个虚拟化社区（xen）的路线图:
 ![xen roadmap](community_status_roadmap_xen_01.png)
 比如说xen 4.5的roadmap里面有release manager, timeline, feature owner等内容.
-![xen roadmap 4.5](community_status_roadmap_xen_02.png)
+![xen roadmap 4.5](community_status_roadmap_xen_02.jpg)
 
 这时候你可能会发现wiki的内容有点旧了, 现在已经在开发xen 4.6了. 没关系啊, 这就是咱们参与社区的机会: 可以帮助社区完善文档(参考后面的Documents day).
+
 [这里](https://www.mail-archive.com/xen-devel@lists.xen.org/msg06993.html)可以找到xen 4.6的release manager是Citrix的Wei LIU, 如果是xen 4.6的开发事宜, 可以关注liu wei的言论(mailing list, irc, conference, submit...), 实在不行也可以在irc上直接骚扰他.
 
 ### GSOC和Outreachy
@@ -37,7 +38,7 @@ Kindle，evernote, 工作日志
 例如[这里](https://en.opensuse.org/openSUSE:GSOC_ideas)可以看到opensuse GSOC projects, 
 自己宣传一下[我申请的项目](https://en.opensuse.org/openSUSE:GSOC_ideas#Build_Service:_Add_ARM64_ILP32_support_for_obs), 如果有师弟师妹有兴趣, 可以联系我.
 
-Outreachy前身是GNOME发起的OPW(Outdoor Program for Women), 本来是为了鼓励女性出来工作, 现在演化为Outready没有性别限制, (这里)[http://sarah.thesharps.us/2014/08/27/2014-kernel-internship-report-opw/]是opw项目的介绍, 这个是kernel社区去年和今年的项目([2015-2016](http://kernelnewbies.org/OutreachyIntro), [2014-2015](http://kernelnewbies.org/OPWRound9).
+Outreachy前身是GNOME发起的OPW(Outdoor Program for Women), 本来是为了鼓励女性出来工作, 现在演化为Outready没有性别限制, [这里](http://sarah.thesharps.us/2014/08/27/2014-kernel-internship-report-opw/)是opw项目的介绍, 这个是kernel社区去年和今年的项目([2015-2016](http://kernelnewbies.org/OutreachyIntro), [2014-2015](http://kernelnewbies.org/OPWRound9)).
 
 不管GSOC还是Outreachy, 对于参与者都是有报酬的, 希望参与者能全职参与社区, 印象中是5000$左右. GSOC对于mentor资助很少.
 
