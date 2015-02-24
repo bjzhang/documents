@@ -58,9 +58,9 @@ Outreachy前身是GNOME发起的OPW(Outdoor Program for Women), 本来是为了�
 
 也有人会介绍, 比如phoronix上面会有人分析子系统git pull request(pr):
 例如btrfs最近对raid5/6改善的pr:
-![community_status_pr_thridparty_phoronix_btrfs_raid5_6](community_status_pr_thridparty_phoronix_btrfs_raid5_6.jpg)
+![community_status_pr_thirdparty_phoronix_btrfs_raid5_6](community_status_pr_thirdparty_phoronix_btrfs_raid5_6.jpg)
 这个是Greg KH的pr:
-![community_status_pr_thridparty_phoronix](community_status_pr_thridparty_phoronix.jpg)
+![community_status_pr_thirdparty_phoronix](community_status_pr_thirdparty_phoronix.jpg)
 
 ### 社区的历史
 
@@ -72,20 +72,34 @@ TODO: 加入视频的残差.
 
 有时社区为了重构某些代码, 会写一些资料, 例如这个要重构调度器子系统的.
 这里也可以看到几个信息来源: lwn, linaro core dump, kernel submit...
-By  Nicolas Pitre
-[Teaching the scheduler about power management](http://lwn.net/Articles/602479/)
-[The Road to Energy-Aware Scheduling](http://www.linaro.org/blog/core-dump/road-energy-aware-scheduling/)
-By Amit Kucheria:
-[http://www.linaro.org/blog/core-dump/energy-aware-scheduling-eas-project/](Energy-Aware Scheduling (EAS) Project)
-By Jonathan Corbet
-[Power-aware scheduling meets a line in the sand](http://lwn.net/Articles/552885/)
-
-Summary of Energy-Aware Scheduling workshop, Linux Kernel Summit 2014:
-[By Mike Turquette from Linaro Core Dump](https://www.linaro.org/blog/core-dump/summary-energy-aware-scheduling-workshop-linux-kernel-summit-2014/)
-[By Jonathan Corbet from lwn](http://lwn.net/Articles/609969/)
+*   By  Nicolas Pitre:
+    *   [Teaching the scheduler about power management](http://lwn.net/Articles/602479/)
+    *   [The Road to Energy-Aware Scheduling](http://www.linaro.org/blog/core-dump/road-energy-aware-scheduling/)
+*   By Amit Kucheria:
+    *   [http://www.linaro.org/blog/core-dump/energy-aware-scheduling-eas-project/](Energy-Aware Scheduling (EAS) Project)
+*   By Jonathan Corbet
+    *   [Power-aware scheduling meets a line in the sand](http://lwn.net/Articles/552885/)
+*   同一个会议也有两个人写总结, Summary of Energy-Aware Scheduling workshop, Linux Kernel Summit 2014:
+    *   [By Mike Turquette from Linaro Core Dump](https://www.linaro.org/blog/core-dump/summary-energy-aware-scheduling-workshop-linux-kernel-summit-2014/)
+    *   [By Jonathan Corbet from lwn](http://lwn.net/Articles/609969/)
 
 ### 社区新闻: lwn, phoronix... 
 
+#### kernel动态
+TODO 八卦一下Jonathan Corbet.
+
+不知道大家是怎么关注内核开发状态的，我主要通过lwn, phonorix了解。
+lwn上3.20 merge window:
+[The 3.20 merge window opens](https://lwn.net/Articles/632761/):
+![community_status_ kernel_development_cycle__merge_window_3_20_part1](community_status_ kernel_development_cycle__merge_window_3_20_part1.jpg)
+[3.20 merge window part 2](https://lwn.net/Articles/633096/):
+![community_status_ kernel_development_cycle__merge_window_3_20_part2](community_status_ kernel_development_cycle__merge_window_3_20_part2.jpg)
+
+phonorix上分析的4.0 rc1为止的内核特性列表:
+![community_status_ kernel_development_cycle__rc](community_status_ kernel_development_cycle__rc.jpg)
+
+另外kernel newbies有每个release内核的特性列表
+![community_status_ kernel_development_cycle__changes](community_status_ kernel_development_cycle__changes.jpg)
 
 日志基本分为印象笔记负责的移动笔记和围绕markdown的工作日志。
  
