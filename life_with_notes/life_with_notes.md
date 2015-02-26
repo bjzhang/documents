@@ -120,26 +120,26 @@ phonorix上分析的4.0 rc1为止的内核特性列表:
 *   关注的动态希望能够积累, 易于搜索.
 
 
-    Opensource.com
-linux.com Linux Kernel Development News
-(InfoQ)[http://www.infoq.com/]
-(Phoronix)[http://www.phoronix.com]
-(Hacker News)[https://news.ycombinator.com/]
-(Linaro Core Dump)[http://www.linaro.org/blog/core-dump/]
+*   Opensource.com
+*   linux.com Linux Kernel Development News
+*   [InfoQ](http://www.infoq.com/)
+*   [Phoronix](http://www.phoronix.com)
+*   [Hacker News](https://news.ycombinator.com/)
+*   [Linaro Core Dump](http://www.linaro.org/blog/core-dump/)
 
-    gmane.linux.linaro.announce
-    gmane.linux.linaro.devel
-    gmane.linux.linaro.toolchain
+*    gmane.linux.linaro.announce
+*    gmane.linux.linaro.devel
+*    gmane.linux.linaro.toolchain
 
-    gmane.linux.kernel.containers
-    gmane.linux.kernel.cgroups
-    gmane.linux.suse.opensuse.devel
-    gmane.comp.lib.glibc.alpha
-    gmane.linux.kernel
-    gmane.linux.kernel.arm
-    gmane.linux.ports.arm.kernel
-    gmane.comp.emulators.qemu
-    gmane.comp.emulators.xen.devel
+*    gmane.linux.kernel.containers
+*    gmane.linux.kernel.cgroups
+*    gmane.linux.suse.opensuse.devel
+*    gmane.comp.lib.glibc.alpha
+*    gmane.linux.kernel
+*    gmane.linux.kernel.arm
+*    gmane.linux.ports.arm.kernel
+*    gmane.comp.emulators.qemu
+*    gmane.comp.emulators.xen.devel
 
 kindle技巧
 ----
