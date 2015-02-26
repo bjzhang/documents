@@ -30,6 +30,12 @@ linux.com Linux Kernel Development News
     gmane.comp.emulators.qemu
     gmane.comp.emulators.xen.devel
 
+kindle技巧
+----
+
+以下为草稿
+====
+
 Kindle，evernote, 工作日志
 ======================
 

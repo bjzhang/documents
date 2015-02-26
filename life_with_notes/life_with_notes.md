@@ -102,6 +102,21 @@ phonorix上分析的4.0 rc1为止的内核特性列表:
 另外kernel newbies有每个release内核的特性列表
 ![community_status_ kernel_development_cycle__changes](community_status_ kernel_development_cycle__changes.jpg)
 
+其它
+--
+参与社区的机会还包括参加社区的test day帮忙测试，参加社区的documents day帮忙完善文档。
+
+社区的会议
+
+看邮件累了，也可以去youtube看看视频，也可以看看slideshare上面的胶片。
+
+以下为草稿
+====
+
+利用零碎时间
+========
+
+
 日志基本分为印象笔记负责的移动笔记和围绕markdown的工作日志。
  
 Kindle用来看社区邮件，rss，记录自己感兴趣的内容或邮件。笔记通过kindle笔记导入到印象笔记。邮件通过狗耳朵直接发到印象笔记。
