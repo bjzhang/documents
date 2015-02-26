@@ -53,9 +53,9 @@ Outreachy前身是GNOME发起的OPW(Outdoor Program for Women), 本来是为了�
 ### GIT PULL
 
 例如git pull会包含特性的修改，
-![commnunity_status__GIT_PULL__features](commnunity_status__GIT_PULL__features.jpg)
+![community_status__GIT_PULL__features](community_status__GIT_PULL__features.jpg)
 子系统的主要贡献者
-![commnunity_status__GIT_PULL__authors_commits](commnunity_status__GIT_PULL__authors_commits.jpg)
+![community_status__GIT_PULL__authors_commits](community_status__GIT_PULL__authors_commits.jpg)
 
 也有人会介绍, 比如phoronix上面会有人分析子系统git pull request(pr):
 例如btrfs最近对raid5/6改善的pr:
@@ -110,12 +110,45 @@ phonorix上分析的4.0 rc1为止的内核特性列表:
 
 看邮件累了，也可以去youtube看看视频，也可以看看slideshare上面的胶片。
 
-以下为草稿
-====
-
-利用零碎时间
+移动生活
 ========
 
+*   看社区动态主要利用零碎的时间.
+    *    每天在家, 路上, 公司切换.
+    *    关注社区动态, 一般来说对工作没有**直接**帮助, 利用整块的工作时间不化算.
+
+*   关注的动态希望能够积累, 易于搜索.
+
+
+    Opensource.com
+linux.com Linux Kernel Development News
+(InfoQ)[http://www.infoq.com/]
+(Phoronix)[http://www.phoronix.com]
+(Hacker News)[https://news.ycombinator.com/]
+(Linaro Core Dump)[http://www.linaro.org/blog/core-dump/]
+
+    gmane.linux.linaro.announce
+    gmane.linux.linaro.devel
+    gmane.linux.linaro.toolchain
+
+    gmane.linux.kernel.containers
+    gmane.linux.kernel.cgroups
+    gmane.linux.suse.opensuse.devel
+    gmane.comp.lib.glibc.alpha
+    gmane.linux.kernel
+    gmane.linux.kernel.arm
+    gmane.linux.ports.arm.kernel
+    gmane.comp.emulators.qemu
+    gmane.comp.emulators.xen.devel
+
+kindle技巧
+----
+
+evernote技巧
+----
+
+以下为草稿
+====
 
 日志基本分为印象笔记负责的移动笔记和围绕markdown的工作日志。
  
@@ -130,6 +163,10 @@ clippings.io
 
 Lwn.net: weekly, 内核除了内核文档，可以搜索这个。
 比如今天提到pstore，google搜索“pstore lwn”可以搜索到三篇介绍文章。
+![community_status_lwn_search](community_status_lwn_search.jpg)
+![community_status_lwn_search_01](community_status_lwn_search_01.jpg)
+![community_status_lwn_search_02](community_status_lwn_search_02.jpg)
+![community_status_lwn_search_03](community_status_lwn_search_03.jpg)
 
 工作日志举例：“vi make”.
  
