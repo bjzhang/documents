@@ -1,0 +1,10 @@
+digraph G{
+	mailing_list -> gmane -> rss;
+  insterested_website_rss -> rss;
+  
+  rss -> kindle;
+
+  kindle -> evernote;
+
+  evernote -> rss [ label = "xxx: no way!"];
+}

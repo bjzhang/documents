@@ -1,0 +1,14 @@
+digraph G{
+	mailing_list -> gmail;
+
+  gmail -> rss_input [ label ="interested thread" ] ;
+  insterested_community_website -> rss_input;
+  
+  rss_input -> rss [ label="base on rating history"];
+
+  rss -> kindle;
+  rss -> evernote_or_similar [label ="archieve" ];
+
+  kindle -> gmail [label="tag through gapi"];
+  kindle -> rss_input [ label = "rating for keywords" ];
+}
